@@ -3563,7 +3563,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-image: url("../../images/i1.jpg");
+		background-image: url("../../images/main_image.jpg");
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
